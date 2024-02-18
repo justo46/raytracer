@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/julius/code/c++/ray-tracing/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics -o CMakeFiles/ray_tracing.dir/main.cpp.o -c /Users/julius/code/c++/ray-tracing/main.cpp",
+  "file": "/Users/julius/code/c++/ray-tracing/main.cpp",
+  "output": "CMakeFiles/ray_tracing.dir/main.cpp.o"
+}
+]
